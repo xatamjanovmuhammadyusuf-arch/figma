@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    padding: 10px 20px;
+}
+nav{
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    
+}
+.Navlinks{
+    display: flex;
+    list-style: none;
+    gap: 20px;
+}
+.Navlinks a{
+    text-decoration: none;
+    color: #141414;
+}
